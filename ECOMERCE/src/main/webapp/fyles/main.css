@@ -1,0 +1,57 @@
+#body{
+      background-image: url("https://i.pinimg.com/originals/3a/25/d3/3a25d33a558629a16b66510ac3ace6c4.jpg");
+      background-size: 2000px;
+  }
+
+  #footer{
+      background-color: black;   
+      color: white;
+      font-size: 17px;
+      height: 50px;
+      display: flex;  
+ }
+  
+  #logo{
+      width: 50px;     
+  }
+  .card{
+      position: static;
+      margin-bottom: 10px;
+      padding-right: 10px;
+       margin-left:5px;
+       
+      display: block;
+      background-color: black;
+      color: white;     
+  }
+  .text{
+      font-size: 19pt;
+      font-family:fantasy;
+      font-style: italic;
+  }
+  
+  .txt-title{
+      text-align: center;
+      font-size: 38px;
+      color:white;
+     
+  }
+  #txt-botton{
+      margin:auto ;
+  }
+  .button{
+      background-color: darkslategrey;
+      color: wheat;
+      transition-delay: 0.1s;
+  }
+  button:hover,button focus{
+      background-color: red;
+  }
+                             /*Pagina de Produtos*/
+  #produts{
+  }
+  
+  #img_not{
+      width: 12rem;
+      
+  }
